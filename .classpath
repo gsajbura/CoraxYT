@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="15-AkcesoryIMutatory/src"/>
+	<classpathentry kind="src" path="16-Konstruktory/src"/>
+	<classpathentry kind="src" path="20-PrzekazywanieParametrów/src"/>
+	<classpathentry kind="src" path="21-DataICzas/src"/>
+	<classpathentry kind="src" path="24-Polimorfizm/src"/>
+	<classpathentry kind="src" path="6-WstępDoMetod/src"/>
+	<classpathentry kind="output" path="15-AkcesoryIMutatory/bin"/>
+</classpath>
